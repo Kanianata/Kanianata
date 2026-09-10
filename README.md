@@ -43,17 +43,6 @@ A web-based activity attendance system developed in a 3-member team using **Nati
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanianata&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanianata&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanianata&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 🤝 Leadership & Collaboration
 
 Alongside technical projects, I have experience coordinating teams and student events, including:
