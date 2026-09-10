@@ -54,18 +54,6 @@ A web-based activity attendance system developed in a 3-member team using **Nati
   <img src="https://streak-stats.demolab.com?user=Kanianata&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanianata&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanianata&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
 ## 🤝 Leadership & Collaboration
 
 Alongside technical projects, I have experience coordinating teams and student events, including:
