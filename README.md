@@ -1,6 +1,18 @@
-# Hi, I'm Kanianata Fahlevy Nainggolan 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Informatics+Undergraduate;Building+Web+Applications;Exploring+Data+Science+%26+Generative+AI" alt="Typing SVG" />
+</p>
 
-**Fullstack Web Developer | Informatics Undergraduate**
+<h1 align="center">Hi, I'm Kanianata Fahlevy Nainggolan 👋</h1>
+
+<p align="center">
+  <b>Fullstack Web Developer | Informatics Undergraduate</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
+  Welcome to my GitHub profile!
+</p>
 
 I'm an Informatics undergraduate at **UPN "Veteran" Jawa Timur** with hands-on experience building web applications through project-based development. My current focus is fullstack web development with **PHP, Laravel, MySQL, and modern frontend technologies**, while expanding my skills in **Data Science, NLP, Generative AI, and LLMs**.
 
@@ -8,21 +20,15 @@ I enjoy turning ideas into practical applications, learning through real project
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap 5 · Tailwind CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,git,github,vscode,figma" alt="Tech Stack" />
+</p>
 
-**Backend & Database**  
-PHP · Laravel · Native PHP · MVC · CRUD · MySQL · PDO
-
-**Tools**  
-Git · GitHub · VS Code · Figma · Draw.io · XAMPP
-
-**Currently Learning**  
-Data Science · Natural Language Processing (NLP) · Generative AI · Large Language Models (LLMs)
+**Currently Learning:** Data Science · Natural Language Processing (NLP) · Generative AI · Large Language Models (LLMs)
 
 ## 🚀 Featured Project
 
-### AbsensiKu — Sistem Absensi Kegiatan
+### 📋 AbsensiKu — Sistem Absensi Kegiatan
 
 A web-based activity attendance system developed in a 3-member team using **Native PHP and MySQL**.
 
@@ -31,7 +37,34 @@ A web-based activity attendance system developed in a 3-member team using **Nati
 - Integrated relational MySQL data with existing authentication and activity modules.
 - Applied **session-based authentication, bcrypt password hashing, and PDO prepared statements**.
 
-🔗 [View Repository](https://github.com/Kanianata/Sistem-Absensi-Kegiatan)
+<p align="center">
+  <a href="https://github.com/Kanianata/Sistem-Absensi-Kegiatan">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanianata&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanianata&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kanianata&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanianata&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kanianata&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
 
 ## 🤝 Leadership & Collaboration
 
@@ -49,9 +82,21 @@ GPA: **3.67 / 4.00**
 
 ## 📫 Connect With Me
 
-- 📧 Email: **kanianata24@gmail.com**
-- 💼 GitHub: [@Kanianata](https://github.com/Kanianata)
+<p align="center">
+  <a href="mailto:kanianata24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Kanianata">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kanianata&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
-*Building, learning, and improving one project at a time.*
+<p align="center">
+  <i>✨ Building, learning, and improving one project at a time.</i>
+</p>
