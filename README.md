@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Informatics+Undergraduate;Building+Web+Applications;Exploring+Data+Science+%26+Generative+AI" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Kanianata Fahlevy Nainggolan 😄</h1>
+<h1 align="center">Hi, I'm Kanianata Fahlevy Nainggolan</h1>
 
 <p align="center">
   <b>Fullstack Web Developer | Informatics Undergraduate</b>
